@@ -33,7 +33,23 @@ public class Cercle {
      y=yy;     
 
   }
- 
+
+public void setX(float valor) {
+	this.x = valor;
+}
+
+public void setY(float valor) {
+	this.y = valor;
+}
+
+public Float getX() {
+	return this.x;
+}
+
+public Float getY() {
+	return this.y;
+}
+
  @Override
  public String toString() {
     String valor = "Propietat X: " + this.x + " Propietat: " + this.y;
