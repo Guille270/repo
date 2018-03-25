@@ -60,4 +60,7 @@ public Float getY() {
  return this.equals(objecte);
  }
  
+public static void main () {
+Cercle cercle1 = new Cercle();
+}
 }
