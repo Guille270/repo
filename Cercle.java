@@ -7,7 +7,7 @@ package git;
 
 /**
  *
- * @author Guille
+ * @author Guillem
  */
 public class Cercle {
 
